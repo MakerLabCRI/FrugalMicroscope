@@ -22,4 +22,4 @@ FlipFlop constructors and thinkers : [Laura](https://github.com/lvrn1992), [Zoé
        Our poster
 
 
-![alt_text]( FrugalMicroscope/StudentStories/FlipFlop Microscope/SPANISH TEAM.jpg )
+![alt_text](FrugalMicroscope/StudentStories/FlipFlop Microscope/Images/SPANISH TEAM.jpg)
