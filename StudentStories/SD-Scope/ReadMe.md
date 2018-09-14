@@ -9,6 +9,9 @@ Jacques’ Turfuscope worked pretty good (he invented the syringe system, which 
 --> So what did we do?
 
 Designing a movable plate (XY movement)
+
 Improving the Z movement
+
 The artificial compressor
+
 Wheeled length modulator
