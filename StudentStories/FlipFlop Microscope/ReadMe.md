@@ -16,4 +16,4 @@ Who we are ?
 Zoé, Laura, Angélica, Julie et Carlotta!
 
 
-![alt_text](https://raw.githubusercontent.com/MakerLabCRI/FrugalMicroscope/master/StudentStories/FlipFlop%20Microscope/SPANISH%20TEAM.jpg)
+![alt_text](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/FlipFlop%20Microscope/SPANISH%20TEAM.jpg)
