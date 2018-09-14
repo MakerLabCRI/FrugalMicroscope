@@ -1,8 +1,8 @@
-THE SPANISH TEAM welcomes you !
 
                                                         FlipFlop Microscope
  
- 
+ THE SPANISH TEAM welcomes you !
+
        Objectifs
 
 Our objective with Flip Flop was to construct a cheap, pocket size and easily to build microscope that can be reversible. 
