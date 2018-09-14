@@ -13,7 +13,9 @@ The reversible model can help you to study not only slides but also cell culture
 
 
 Who we are ? 
-Zoé, Laura, Angélica, Julie et Carlotta!
+
+
+FlipFlop constructors and thinkers : [Laura](https://github.com/lvrn1992), [Zoé](https://github.com/piczoe), [Julie](https://github.com/JulieSitolle), [Angelica](https://github.com/Angelicarisu)
 
 
 ![alt_text](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/FlipFlop%20Microscope/SPANISH%20TEAM.jpg)
