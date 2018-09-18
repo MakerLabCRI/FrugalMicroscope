@@ -14,6 +14,6 @@ Jacques’ Turfuscope worked pretty good (he invented the syringe system, which 
 
 [Turning the light on]
 
-[A small example of results]
+[A small example of results](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/SD-Scope/video-1536931628.mp4)
 
 The artificial compressor
