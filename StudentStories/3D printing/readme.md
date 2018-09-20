@@ -20,11 +20,11 @@ The issue was then that the objects were so small that the app couldn't scan the
 So we had to give up the idea of 3D scanning.
 We decided to take pictures of a 2D sample of a pine stem cell, and convert it using a computer into a file that we could send to the 3D printer.
 
-![alt text]()
+![alt text](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/3D%20printing/sha%20sample.JPG)
 
 At first we used [BLENDER](https://www.blender.org/) and obtained through extrudation this image :
 
-![alt text]()
+![alt text](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/3D%20printing/cell%20blender.JPG)
 
 But unfortunately it wasn't a 3D object that we could scan... =(
 So we went on Adobe Illustrator & Photoshop in order to convert the cell's perimeter into a vectorial drawing. That way, the laser cutter would cut the cell and to grave the surface. It worked !!! We had this cell :
