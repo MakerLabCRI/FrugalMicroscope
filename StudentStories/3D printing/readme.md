@@ -12,7 +12,7 @@ At first we used the [QLONE](https://www.qlone.pro/) app on iPhone, which is fre
 But it obliged us to have a sheet of paper underneath the object to scan, and samples are way too small compared to the size of the paper.
 So we went on with [TRNIO](http://www.trnio.com/) app (which only costs 1€) and built this device :
 
-![alt text]()
+![alt text](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/3D%20printing/trnio.JPG)
 
 The issue was then that the objects were so small that the app couldn't scan them very well.
 
