@@ -1,6 +1,6 @@
 # Exploratory project
-### 3D Printing
-##### by @missnjf and 
+      ### 3D Printing
+      ##### by @missnjf and 
 
 ```
 git status
