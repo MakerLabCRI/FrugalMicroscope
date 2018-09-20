@@ -1,5 +1,5 @@
 # Exploratory project - 3D Printing
-   ##### by @missnjf and 
+   ##### by [Shaghayegh](https://github.com/missnjf) and [Gabriela]()
 
 **Our elaboration and reflexion**
 We decided to focus on adding the possibility to 3D print the samples we could see on the original microscope. 
