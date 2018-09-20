@@ -7,7 +7,7 @@ We decided to focus on adding the possibility to 3D print the samples we could s
 Our initial idea was to find a **3D scanner** app on smartphone (which would therefore be frugal).
 At first we used the [QLONE](https://www.qlone.pro/) app on iPhone, which is free :
 
-![alt text](FrugalMicroscope/StudentStories/3D printing/qlone.JPG)
+![alt text](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/3D%20printing/qlone.JPG)
 
 But it obliged us to have a sheet of paper underneath the object to scan, and samples are way too small compared to the size of the paper.
 So we went on with [TRNIO](http://www.trnio.com/) app (which only costs 1€) and built this device :
