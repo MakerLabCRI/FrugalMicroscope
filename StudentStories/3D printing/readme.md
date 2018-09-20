@@ -1,7 +1,7 @@
-### Exploratory project
-# 3D Printing
+# Exploratory project
+### 3D Printing
+##### by @missnjf and 
 
-`git status` 
 ```
 git status
 git command
