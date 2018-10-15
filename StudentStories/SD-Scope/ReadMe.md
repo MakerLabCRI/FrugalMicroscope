@@ -12,8 +12,8 @@ Jacques’ Turfuscope worked pretty good (he invented the syringe system, which 
 
 [Improving the Z movement](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/SD-Scope/videoZ.gif)
 
-[Turning the light on]
+[Turning the light on](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/SD-Scope/video%20lamp.gif)
 
-[A small example of results](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/SD-Scope/video-1536931628.mp4)
+[A small example of results](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/SD-Scope/Video%20results.gif)
 
 The artificial compressor
