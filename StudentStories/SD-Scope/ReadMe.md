@@ -8,7 +8,7 @@ Jacques’ Turfuscope worked pretty good (he invented the syringe system, which 
 
 --> So what did we do?
 
-[Designing a movable plate (XY movement)](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/SD-Scope/videoXY.mp4)
+[Designing a movable plate (XY movement)](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/SD-Scope/videoXY.gif)
 
 [Improving the Z movement](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/SD-Scope/videoZ.mp4)
 
