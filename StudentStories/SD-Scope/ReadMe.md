@@ -10,7 +10,7 @@ Jacques’ Turfuscope worked pretty good (he invented the syringe system, which 
 
 [Designing a movable plate (XY movement)](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/SD-Scope/videoXY.gif)
 
-[Improving the Z movement](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/SD-Scope/videoZ.mp4)
+[Improving the Z movement](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/SD-Scope/videoZ.gif)
 
 [Turning the light on]
 
