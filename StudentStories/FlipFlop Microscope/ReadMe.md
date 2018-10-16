@@ -20,6 +20,8 @@ FlipFlop constructors and thinkers : [Laura](https://github.com/lvrn1992), [Zoé
 
   
       Flip Flop Microscope
+      
+ ![alt_text](https://github.com/MakerLabCRI/FrugalMicroscope/StudentStories/FlipFlop Microscope/Images/IMG_20180914_123345.jpg) 
      
      
        Our poster
