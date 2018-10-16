@@ -29,3 +29,10 @@ Board n°5:
 Board n°6
 
 
+
+Few images of what we were able to see thanks to turfuscope2.0 : 
+
+![picture 1 microscope](http://image.noelshack.com/fichiers/2018/42/2/1539673860-micro1.jpg)
+![picture 2 microscope](http://image.noelshack.com/fichiers/2018/42/2/1539673860-micro2.jpg)
+![picture 3 microscope](http://image.noelshack.com/fichiers/2018/42/2/1539673860-micro3.jpg)
+![picture 4 microscope](http://image.noelshack.com/fichiers/2018/42/2/1539673883-micro4.jpg)
