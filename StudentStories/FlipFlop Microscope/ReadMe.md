@@ -25,6 +25,7 @@ FlipFlop constructors and thinkers : [Laura](https://github.com/lvrn1992), [Zoé
      
      
        Our poster
-
+v
+![alt_text](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/FlipFlop%20Microscope/Images/SPANISH%20TEAM.jpg)
 
 ![alt_text](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/FlipFlop%20Microscope/Images/SPANISH%20TEAM.jpg)
