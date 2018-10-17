@@ -12,3 +12,9 @@ Microscorde : Improving the turfuscope
   [Functionalities/lignting/potentiometer](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/Microscorde/images/ezgif.com-optimize.gif)
   
   [Functionalities/focus/syringes](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/Microscorde/images/ezgif.com-video-to-gif.gif)
+
+
+Possible improvements :
+
+The microscorde was to expensive : it could have been more frugal. For instance, one could try to find an easiest way to modulate the light without an Arduino.
+The glue we used (glue gun) doesn’t stick very well and after a few times, some parts fall appart.
