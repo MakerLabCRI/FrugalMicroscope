@@ -10,3 +10,11 @@ The goal of this project was to improve diverse functionnalities of the Turfusco
 
 To realize the blueprints of our beautiful microscope, we used Adobe Illustrator. It was then printed with the laser cutter (Epilog Laser MINI). 
 
+The improvements that we did were:
+  - x,y axis independence from z axis, so we don't disturb the z axis stability
+      HAVE A LOOK
+  - multiple lentils option
+      YOU CAN CHECK IT HERE
+  - very precise focus with 2 seringes (big focus and small focus)
+      VIDEO RIGHT HERE
+  - 
