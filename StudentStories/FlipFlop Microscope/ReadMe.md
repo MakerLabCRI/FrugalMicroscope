@@ -50,7 +50,7 @@ Our microscope uses an light we a switch power button on the bottom. This light 
 
     How to build it?
     
- ![alt_text](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/FlipFlop%20Microscope/STEPS%20FINALE.pdf)
+ ![Follow the script](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/FlipFlop%20Microscope/STEPS%20FINALE.pdf)
 
 
 
