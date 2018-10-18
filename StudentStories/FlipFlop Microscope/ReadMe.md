@@ -31,7 +31,7 @@ The reversible model can help you to study not only slides but also cell culture
 
     Optical
     
-We have used an unexpensive and very effective lense, the balls inside pen ink cartridge. This lense came from the 5O cents microscope and so there wewas a module that contained it. To make it usefull we have drilled a little hole according to the diameter of the lense.and so it was slotting well.
+We have used an unexpensive and very effective lense, the balls inside pen ink cartridge. This lense came from the foldscope microscope and so there was a module that contained it. To make it usefull we have drilled a little hole according to the diameter of the lense, and so it was slotting well.
 
     Axe X Y
     
@@ -44,7 +44,7 @@ For the Y axe, we have put some rubber band on the body of the microscope à dif
 Due of our type of lense we didn't need to do a focusing stuff.
 
 
-    Eclairage
+    Light
     
 Our microscope uses an light we a switch power button on the bottom. This light is glue to the body of the microspe and it can be used rom the bottom or on the upside of the microscope.
 
