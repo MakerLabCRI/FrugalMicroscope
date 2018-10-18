@@ -2,7 +2,7 @@ Title : The Turfuscope 2.0
 
 Team members : (add github user's profile link) : Maëlle Dagnogo, Avril Muller, Juliette Bellengier, Candice Arnaud, Lucien Baccaini, Lorenzo Bernard Litta Modignani, Antoine Baly, Elise Buard, Marie-Caroline Brichler.
 [Lucien BACCAINI's profile](https://github.com/Shavesteo)
-
+[Marie-Caroline BRICHLER's profile](https://github.com/Tisdie)
 ![Turfuscope 2.0 overview](http://image.noelshack.com/fichiers/2018/42/2/1539672949-microscope-pic.png)
 
 In 2017, Jacques had an idea of building a”‘hydraulic microscope”, using syringes filled with water to move the x axis. He called it the Turfuscope.
