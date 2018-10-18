@@ -33,6 +33,8 @@ The reversible model can help you to study not only slides but also cell culture
     
 We have used an unexpensive and very effective lense, the balls inside pen ink cartridge. This lense came from the foldscope microscope and so there was a module that contained it. To make it usefull we have drilled a little hole according to the diameter of the lense, and so it was slotting well.
 
+![clickhere](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/FlipFlop%20Microscope/ezgif.com-video-to-gif(2).gif)
+
     Axe X Y
     
 For the X axe, thanks to the opening on the side we can manually manipulate the microscope slide very easily.
