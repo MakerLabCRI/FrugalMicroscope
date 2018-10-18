@@ -35,9 +35,11 @@ We have used an unexpensive and very effective lense, the balls inside pen ink c
 
     Axe X Y
     
+    
 For the X axe, thanks to the opening on the side we can manually manipulate the microscope slide very easily.
 For the Y axe, we have put some rubber band on the body of the microscope à diffrent level and so you have to choose the level needed and so raise or lower the observation slide. But with the type of lense taht we are using we have to put it very closed to the lense.
 
+![See the video](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/FlipFlop%20Microscope/ezgif.com-video-to-gif(1).gif)
 
     Focus
     
