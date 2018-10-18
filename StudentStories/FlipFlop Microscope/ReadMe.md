@@ -33,7 +33,7 @@ The reversible model can help you to study not only slides but also cell culture
     
 We have used an unexpensive and very effective lense, the balls inside pen ink cartridge. This lense came from the foldscope microscope and so there was a module that contained it. To make it usefull we have drilled a little hole according to the diameter of the lense, and so it was slotting well.
 
-![clickhere](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/FlipFlop%20Microscope/ezgif.com-video-to-gif(3).gif)
+[Functionalities/Optical/UseOfTheMicroscope](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/FlipFlop%20Microscope/ezgif.com-video-to-gif(3).gif)
 
     Axe X Y
     
@@ -41,7 +41,7 @@ For the X axe, thanks to the opening on the side we can manually manipulate the 
 For the Y axe, the space is just enough to slip the observation slide, so you only 
 can see what is align with the lens.
     
-![clickhere](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/FlipFlop%20Microscope/ezgif.com-video-to-gif(2).gif)
+[Functionalities/XY/AxisMotionWithHands](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/FlipFlop%20Microscope/ezgif.com-video-to-gif(2).gif)
 
 
     Focus
@@ -49,17 +49,17 @@ can see what is align with the lens.
 Due of our type of lense we didn't need to do a focusing stuff.
 Else, just use the elastic bands to raise or lower the observation slide.
 
-![clickhere](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/FlipFlop%20Microscope/ezgif.com-video-to-gif(1).gif)
+[Functionalities/Focus/YAxisAndBands](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/FlipFlop%20Microscope/ezgif.com-video-to-gif(1).gif)
 
     Light
     
 Our microscope uses an light we a switch power button on the bottom. This light is glue to the body of the microspe and it can be used rom the bottom or on the upside of the microscope.
 
-![clickkk](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/FlipFlop%20Microscope/ezgif.com-video-to-gif.gif)
+![Functionalities/Light/PocketLamp](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/FlipFlop%20Microscope/ezgif.com-video-to-gif.gif)
 
     How to build it?
     
- ![Follow the script](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/FlipFlop%20Microscope/STEPS%20FINALE.pdf)
+ [Clik here and Follow the script](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/FlipFlop%20Microscope/STEPS%20FINALE.pdf)
 
 
 
