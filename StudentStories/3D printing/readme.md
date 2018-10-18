@@ -32,3 +32,5 @@ But unfortunately it wasn't a 3D object that we could scan... =(
 So we went on Adobe Illustrator & Photoshop in order to convert the cell's perimeter into a vectorial drawing. That way, the laser cutter would cut the cell and to grave the surface. It worked !!! We had this cell :
 
 ![alt text](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/3D%20printing/IMG-3024.JPG)
+
+There is still a lot to improve : indeed we just used a laser cut in order to create our cell, but it could be interesting to really print it with a 3D printer. Moreover we do not know if an automation of the conversion process between an image and a vectorial drawing could be possible, but it can be an exploratory project. Finally we also thought about creating a mechanical device that would take pictures of the samples, instead of having to use a human and his smartphone. 
