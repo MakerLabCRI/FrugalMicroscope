@@ -1,8 +1,10 @@
 # Exploratory project - 3D Printing
    ##### by [Shaghayegh](https://github.com/missnjf) and [Gabriela]()
+   
 
 **Our elaboration and reflexion**
 
+![alt text](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/3D%20printing/qlone.JPG)
 We decided to focus on adding the possibility to 3D print the samples we could see on the original microscope. 
 Our initial idea was to find a **3D scanner** app on smartphone (which would therefore be frugal).
 At first we used the [QLONE](https://www.qlone.pro/) app on iPhone, which is free :
