@@ -26,8 +26,8 @@ Board n°1 : Stick 3 small syringes on the top of the board. One has to be place
 Board n°2: In the biggest hole, insert the biggest syringe, that will allow the mobility on the Z axis. In the other circular hole, insert the lamp. In the rectangle-shaped hole, insert the interruptor that’s linked to the lamp 
 Board n°3: no holes on the sides but only one on the left part of the board to allow light to come, this action is done by the laser cutter 
 Board n°4: to strengthen the stability of the boards that move on x and y axis, we put 2 cork structures
-Board n°5: 
-Board n°6
+Board n°5: Hole on the side to allow light to come. Support to put the microscope slide, this board can move in x,y and z to do a better adaptation for the observation of the microscope slide. There is some wedge on the board which surrounds the microscope slide to prevent it from moving (of course a space is clear to be able to change the slide)
+Board n°6 : Support for the lens and the phone. There is a hole which give directly on the slide and the light below. This is the top board.
 
 
 
