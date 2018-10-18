@@ -39,6 +39,9 @@ For the X axe, thanks to the opening on the side we can manually manipulate the 
 For the Y axe, the space is just enough to slip the observation slide, so you only 
 can see what is align with the lens.
     
+    
+![clickhere](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/FlipFlop%20Microscope/ezgif.com-video-to-gif(1).gif)
+
     Focus
     
 Due of our type of lense we didn't need to do a focusing stuff.
