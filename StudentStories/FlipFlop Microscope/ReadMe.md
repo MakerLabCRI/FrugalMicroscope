@@ -55,6 +55,8 @@ Else, just use the elastic bands to raise or lower the observation slide.
     
 Our microscope uses an light we a switch power button on the bottom. This light is glue to the body of the microspe and it can be used rom the bottom or on the upside of the microscope.
 
+![clickkk](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/FlipFlop%20Microscope/ezgif.com-video-to-gif.gif)
+
     How to build it?
     
  ![Follow the script](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/FlipFlop%20Microscope/STEPS%20FINALE.pdf)
