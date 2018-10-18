@@ -48,5 +48,9 @@ Due of our type of lense we didn't need to do a focusing stuff.
     
 Our microscope uses an light we a switch power button on the bottom. This light is glue to the body of the microspe and it can be used rom the bottom or on the upside of the microscope.
 
+    How to build it?
+    
+ ![alt_text](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/FlipFlop%20Microscope/STEPS%20FINALE.pdf)
+
 
 
