@@ -4,7 +4,7 @@
 
 **Our elaboration and reflexion**
 
-![alt text](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/3D%20printing/qlone.JPG)
+![alt text](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/3D%20printing/image.JPG)
 We decided to focus on adding the possibility to 3D print the samples we could see on the original microscope. 
 Our initial idea was to find a **3D scanner** app on smartphone (which would therefore be frugal).
 At first we used the [QLONE](https://www.qlone.pro/) app on iPhone, which is free :
@@ -30,4 +30,4 @@ At first we used [BLENDER](https://www.blender.org/) and obtained through extrud
 
 But unfortunately it wasn't a 3D object that we could scan... =(
 So we went on Adobe Illustrator & Photoshop in order to convert the cell's perimeter into a vectorial drawing. That way, the laser cutter would cut the cell and to grave the surface. It worked !!! We had this cell :
-image
+![alt text](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/3D%20printing/IMG-3024.JPG)
