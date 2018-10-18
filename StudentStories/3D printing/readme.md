@@ -1,5 +1,5 @@
 # Exploratory project - 3D Printing
-   ##### by [Shaghayegh](https://github.com/missnjf) and [Gabriela]()
+   ##### by [Shaghayegh](https://github.com/missnjf) and [Gabriela](https://github.com/gabrielaqdc)
    
 
 **Our elaboration and reflexion**
