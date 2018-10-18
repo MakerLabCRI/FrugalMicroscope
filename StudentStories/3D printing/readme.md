@@ -30,4 +30,5 @@ At first we used [BLENDER](https://www.blender.org/) and obtained through extrud
 
 But unfortunately it wasn't a 3D object that we could scan... =(
 So we went on Adobe Illustrator & Photoshop in order to convert the cell's perimeter into a vectorial drawing. That way, the laser cutter would cut the cell and to grave the surface. It worked !!! We had this cell :
+
 ![alt text](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/3D%20printing/IMG-3024.JPG)
