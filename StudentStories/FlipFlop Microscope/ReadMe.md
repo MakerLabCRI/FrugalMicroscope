@@ -9,7 +9,7 @@
       Who we are ? 
 
 
-FlipFlop constructors and thinkers : [Laura](https://github.com/lvrn1992), [Zoé](https://github.com/piczoe), [Julie](https://github.com/JulieSitolle), [Angelica](https://github.com/Angelicarisu)
+FlipFlop constructors and thinkers : [Laura](https://github.com/lvrn1992), [Zoé](https://github.com/piczoe), [Julie](https://github.com/JulieSitolle), [Angelica](https://github.com/Angelicarisu) [Carlotta](https://github.com/Carlottaz)
 
   
       Flip Flop Microscope
