@@ -17,4 +17,4 @@ The improvements that we did were:
       [YOU CAN CHECK IT HERE](https://github.com/MakerLabCRI/FrugalMicroscope/tree/master/Functionalities/Optical/Lens_Brachioscope2018)
   - very precise focus with 2 seringes (big focus and small focus)
       VIDEO RIGHT HERE
-  - 
+  - and HERE you will discover our light system !
