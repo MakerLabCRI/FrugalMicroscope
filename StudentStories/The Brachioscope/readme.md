@@ -15,8 +15,7 @@ The improvements that we did were:
       ![HAVE A LOOK](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/Functionalities/XY/2018_slidingXYaxis/readme.md)
   - multiple lentils option
       [YOU CAN CHECK IT HERE](https://github.com/MakerLabCRI/FrugalMicroscope/tree/master/Functionalities/Optical/Lens_Brachioscope2018)
-  - very precise focus with 2 seringes (big focus and small focus)
+  - very precise focus with 2 seringes which constitue the z axis (big focus and small focus)
       [VIDEO RIGHT HERE](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/Functionalities/Focus/AxisMotionWithSyringes)
-  - a more stable Z axis 
-  - and [HERE](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/Functionalities/Lighting/The%20Brachioscope) 
+   - and [HERE](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/Functionalities/Lighting/The%20Brachioscope) 
  you will discover our light system !
