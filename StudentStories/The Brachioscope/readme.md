@@ -16,5 +16,5 @@ The improvements that we did were:
   - multiple lentils option
       [YOU CAN CHECK IT HERE](https://github.com/MakerLabCRI/FrugalMicroscope/tree/master/Functionalities/Optical/Lens_Brachioscope2018)
   - very precise focus with 2 seringes (big focus and small focus)
-      [VIDEO RIGHT HERE](https://github.com/MakerLabCRI/FrugalMicroscope/master/Functionalities/Focus/AxisMotionWithSyringes/readme.md)
+      [VIDEO RIGHT HERE](https://github.com/MakerLabCRI/FrugalMicroscope/tree/master/Functionalities/Focus/AxisMotionWithSyringes/readme.md)
   - and HERE you will discover our light system !
