@@ -1,5 +1,7 @@
 # The Turfuscope 2.0
 
+![Video of the turfuscope](https://gph.is/2S2Q7lA)
+
 ## **Team members :**
 
 (add github user's profile link) :
