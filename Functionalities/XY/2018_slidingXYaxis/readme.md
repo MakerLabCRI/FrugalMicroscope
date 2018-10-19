@@ -1,6 +1,6 @@
 Our ingenious yet very simple mechanism!
-![Video of the XY axis]
-(https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/The%20Brachioscope/Images/XYaxis.gif)
+
+![Video of the XY axis](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/The%20Brachioscope/Images/XYaxis.gif)
 
 The goal of this improvement (along the one of the Z axis) was to move only the plate on which the lenses are as a XY axis. This should technically grant us more stability and thus more precise observation.
 We made sure none of the metallic branches stuck through the wooden plate of the XY axis for the microscope to be compatible with any model of mobile phone. The device has to be layed down on the of the microscope, the lense of its camera aligned with the opening of the lense.
