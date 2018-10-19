@@ -45,6 +45,12 @@ Assembling each board (n°1 to n°6 starting from the bottom) :
 
 **Board n°6 :** Support for the lens and the phone. There is a hole which give directly on the slide and the light below. This is the top board.
 
+Our techniques for the Turfuscope 2.0: 
+Functionalities/Optical/Laser-cut made platform for optical accuracy 
+Functionalities/XY/2 axis syringe hydraulic system
+Functionalities/Focus/Hydraulic focusing system adaptable to the lens
+Functionalities/Lighting/2 lights with switch system
+
 
 
 Few images of what we were able to see thanks to turfuscope2.0 : 
