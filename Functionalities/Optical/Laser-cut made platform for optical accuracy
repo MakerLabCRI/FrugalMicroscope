@@ -1,0 +1,6 @@
+The optical is a main part when you want to create a microscope. For our microscope, we tried to use the cheapest lens as possible.
+The goal is to use a lens with a convenient shape that can allow to take pictures with a phone. 
+The lens we used was taken from a classical microscope : a WF10X lens easily findable on the web.
+In order to fix the phone in contact with the lens, we built, with the laser cutter, a platform on the top of the microscope. It is really important to have the phone’s camera directly in contact with the lens to reach the maximal accuracy.
+
+We imagined a system allowing to change the lens quickly if it is broken or if the user needs to change the lens in order to change the zoom. This is very simple : we made a glue circle with a glue gun. Though it looks cheap, it works well. All the lenses should have the same size in order to be well fixed.
