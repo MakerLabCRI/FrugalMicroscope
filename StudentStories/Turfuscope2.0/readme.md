@@ -46,10 +46,10 @@ Assembling each board (n°1 to n°6 starting from the bottom) :
 **Board n°6 :** Support for the lens and the phone. There is a hole which give directly on the slide and the light below. This is the top board.
 
 Our techniques for the Turfuscope 2.0: 
-Functionalities/Optical/Laser-cut made platform for optical accuracy 
-Functionalities/XY/2 axis syringe hydraulic system
-Functionalities/Focus/Hydraulic focusing system adaptable to the lens
-Functionalities/Lighting/2 lights with switch system
+Functionalities/Optical/Laser-cut made platform for optical accuracy [https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/Functionalities/Optical/Laser-cut%20made%20platform%20for%20optical%20accuracy]
+Functionalities/XY/2 axis syringe hydraulic system [https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/Functionalities/XY/2%20axis%20syringe%20hydraulic%20system]
+Functionalities/Focus/Hydraulic focusing system adaptable to the lens [ https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/Functionalities/Focus/Hydraulic%20focusing%20system%20adaptable%20to%20the%20lens] 
+Functionalities/Lighting/2 lights with switch system [https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/Functionalities/Lighting/2%20%20lights%20with%20switch%20system] 
 
 
 
