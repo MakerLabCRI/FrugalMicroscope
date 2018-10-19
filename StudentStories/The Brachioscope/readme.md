@@ -14,7 +14,7 @@ The improvements that we did were:
   - x,y axis independence from z axis, so we don't disturb the z axis stability
       ![HAVE A LOOK](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/Functionalities/XY/2018_slidingXYaxis/readme.md)
   - multiple lentils option
-      [YOU CAN CHECK IT HERE](https://github.com/MakerLabCRI/FrugalMicroscope/tree/master/StudentStories/The%20Brachioscope/lentils)
+      [YOU CAN CHECK IT HERE](https://github.com/MakerLabCRI/FrugalMicroscope/tree/master/Functionalities/Optical/Lens)
   - very precise focus with 2 seringes (big focus and small focus)
       VIDEO RIGHT HERE
   - 
