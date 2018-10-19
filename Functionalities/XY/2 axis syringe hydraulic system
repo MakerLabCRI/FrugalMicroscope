@@ -1,9 +1,5 @@
-## **Narration**
-
-In 2017, Jacques had an idea of building a”‘hydraulic microscope”, using syringes filled with water to move the x axis. He called it the Turfuscope.
 We designed a hydraulic system with syringes containing water to move the lamella along X and Y axis. 
-This system is composed of 2 boards, one to moving along X and the other one along Y. 
-This up and down system for the focus. To move the boards we used 15 mL or 10ml syringes with water.  
-The system is relatively simple. 
-Indeed, you  just have to connect 2 syringes of 15 mL or 10ml containing water together and then, let the hydraulic pressure do the rest. 
+This system is composed of 2 boards, one to moving along X and the other one along Y. This up and down system for the focus. 
+To move the boards we used 15 mL or 10ml syringes with water. 
+The system is relatively simple. Indeed, you  just have to connect 2 syringes of 15 mL or 10ml containing water together and then, let the hydraulic pressure do the rest. 
 Actually, pressing or pulling the piston of the syringes, induces a lever effect that causes the board to move!
