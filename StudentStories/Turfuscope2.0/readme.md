@@ -1,6 +1,6 @@
 # The Turfuscope 2.0
 
-![Video of the turfuscope](https://gph.is/2S2Q7lA)
+![Video of the turfuscope](https://media.giphy.com/media/28BGsLiIoxIv3hI0d1/giphy.gif)
 
 ## **Team members :**
 
