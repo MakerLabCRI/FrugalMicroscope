@@ -5,10 +5,11 @@ Video of the turfuscope 2.0 : https://media.giphy.com/media/28BGsLiIoxIv3hI0d1/g
 ## **Team members :**
 
 (add github user's profile link) :
-Maëlle Dagnogo, Avril Muller, Juliette Bellengier, Candice Arnaud, Lucien Baccaini, Lorenzo Bernard Litta Modignani, Antoine Baly, Elise Buard, Marie-Caroline Brichler.
+Maëlle Dagnogo (https://github.com/mdagnogo) , Avril Muller, Juliette Bellengier (https://github.com/JulietteBE), Candice Arnaud (https://github.com/candiceab), Lucien Baccaini, Lorenzo Bernard Litta Modignani, Antoine Baly, Elise Buard (https://github.com/EliseBD) , Marie-Caroline Brichler.
 [Lucien BACCAINI's profile](https://github.com/Shavesteo)
 [Marie-Caroline BRICHLER's profile](https://github.com/Tisdie)
 [Juliette Bellengier's profile] (https://github.com/JulietteBE)
+
 
 
 ![Turfuscope 2.0 overview](http://image.noelshack.com/fichiers/2018/42/2/1539672949-microscope-pic.png)
