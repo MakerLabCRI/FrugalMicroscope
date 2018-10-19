@@ -18,5 +18,5 @@ The improvements that we did were:
   - very precise focus with 2 seringes (big focus and small focus)
       [VIDEO RIGHT HERE](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/Functionalities/Focus/AxisMotionWithSyringes)
   - a more stable Z axis 
-  - and [HERE] (https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/Functionalities/Lighting) 
+  - and [HERE](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/Functionalities/Lighting/The%20Brachioscope) 
  you will discover our light system !
