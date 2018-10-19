@@ -10,3 +10,5 @@ One obvious limit to our system is the straightness of the metallic branches. Th
 We fixed that problem with cables surrounding the branches to pull them together. With the correct force, it works, but it's ugly...
 
 The second limit is a bit more complicated to solve. It comes from the different length of the lenses. When a sample is positionned and focused to a low zoom and we want to switch to a higher zoom, the lense is most of the time longer and collides with the sample, potentially moving it from the place we targeted. This also means that the focus has to be done again.
+
+A good improvement would be to create a way to fix the phone one the wooden plate which would still be compatible with any model of mobile phone.
